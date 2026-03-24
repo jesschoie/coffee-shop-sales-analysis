@@ -46,7 +46,8 @@ Analysis was performed using MySQL to explore sales performance and extract key 
 **Dashboard**
 
 A dashboard was created in Tableau to visualise key sales performance metrics, including revenue trends, product performance and customer demand patterns. 
-<img width="1799" height="1199" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/ba35d95b-8fa9-4d7f-8fae-2025f06ff563" />
+<img width="1186" height="794" alt="dashboard" src="https://github.com/user-attachments/assets/aa22e86a-9d31-4448-939d-2937b6c0bfca" />
+
 View the interactive Dashboard in Tableau:
 https://public.tableau.com/app/profile/jess.choie/viz/CoffeeShopSalesDashboard_17738416123990/SalesDashboard
  
